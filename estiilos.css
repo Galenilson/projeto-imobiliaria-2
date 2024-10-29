@@ -1,0 +1,161 @@
+body{
+    margin: 0;
+    font-family: tahoma ;
+    
+}
+
+.seções{
+    padding-top: 30px;  
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.paragrafos{
+    margin:10px auto 10px auto;
+    width: 980px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 28px;
+   
+}
+
+/* 1 seção*/
+
+.topo{
+    background-color: #afddfb;
+    
+}
+
+.img-topo{
+    width: 150px;
+}
+
+.topo p{
+    margin-bottom: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+    
+}
+
+.topo a{
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0px 10px 0px 10px;
+}
+
+/* 2 seção*/
+
+.banner{
+    margin-top: 50px;
+    padding-top: 0;
+}
+
+/* estilos de marcações*/
+
+
+.texto-amarelo{
+    color: #fff81b;
+}
+
+.texto-azul{
+    color: #1c81c0;
+}
+
+
+
+span{
+    font-weight: bold;
+}
+
+/* 3 seção*/
+
+h1{
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+h2{
+    font-weight: normal;
+    margin-top: 0;
+    color: #1c81c0;
+}
+
+.imagem{
+    width: 450px;
+}
+
+/* 4 seção*/
+
+.serviços, .contato{
+    background-color: #1c81c0;
+}
+
+h3{
+    color:#ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.paragrafos-serviços{
+    color: #ffffff;
+    font-size: 22px;
+    line-height: 42px;
+    text-align: center;
+    width: 700px;
+}
+
+.lista-serviços{
+    margin: 40px auto 40px auto;
+    width: 135px;
+}
+
+.itens-serviços{
+    color:#ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+
+/* 5 seção*/
+
+.corretores h3{
+    color: #1c81c0;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+/* 6 seção*/
+
+iframe{
+    width: 800px;
+    height: 400px;
+}
+
+.paragrafos-contato{
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.lista-contato{
+    margin: 40px auto 40px auto;
+    list-style: none;
+    width: 210px;
+}
+
+.itens-contato{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.link-contato{
+    background-color: #ffffff;
+    color: #1c81c0;
+    padding: 2px 5px 2px 5px;
+    border-radius: 5px;
+}
